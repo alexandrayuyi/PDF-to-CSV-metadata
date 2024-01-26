@@ -1,0 +1,385 @@
+Source ID: src_ujhiaD8HZvKTKSrth8vq9
+Source ID: src_431R7qSne4K9nMDumMoI7
+Source ID: src_fotlbdLVg1flUnmTxEcwg
+Source ID: src_oEim6ra4pstlVQkT7l0pm
+Source ID: src_DogK43NzWowdZ0oxNzmUb
+Source ID: src_QHgUWVxUlqgN8Z9AlJM6v
+Source ID: src_Qm97b81z5Ctrqc6ef6SQD
+Source ID: src_hrFcaCPc0bqD10P8pWSgt
+Source ID: src_FfjrzEpW6yon59q2GeYlc
+Source ID: src_VnIhZfVfoYtboWwW1snmE
+Source ID: src_tscIR2RkxCZQaT8pXY52c
+Source ID: src_2yDJTK6hORjlPf7k5sHBZ
+Source ID: src_Q2S7na8Gg5RLN4v6pDMUS
+Source ID: src_jAsXcpuMfGipExorBaZ1B
+Source ID: src_Mnu3ilOLXLefZK4BwfOA4
+Source ID: src_eNgqoz1aW4NAYplYbelsq
+Source ID: src_74Nj3XvOcAjjSUKd95NcO
+Source ID: src_rFaQZhiF9xSAcNnA7wnL6
+Source ID: src_CMXCeDjbwFMzU2qUYT5Df
+Source ID: src_WAU59PgKiUK8Vs3WmdQ6i
+Source ID: src_1MKrNTNc2VTXJEonHcD1V
+Source ID: src_UPOry6ar0o1KzUrurg608
+Source ID: src_d8ZFyL7ZJ1E7URs22SW2M
+Source ID: src_uuo2wEUbIWETzjEEOZHqe
+Source ID: src_vqcq91hC1oiteuKqy7gYr
+Source ID: src_sgGFOa1BqKuGtqJciA36g
+Source ID: src_NnAhaRtMXQ0JngJIezMIU
+Source ID: src_qnZg96piw1soX1itL7rc6
+Source ID: src_nkNZ7IcgqKB1PJAtJRxv5
+Source ID: src_27rmeXNKzx2emul2L820M
+Source ID: src_m0zcTBf6AaBrshlhYDV9r
+Source ID: src_n9hrH4AzMxY3o6zzWuL7L
+Source ID: src_csBl6tDrurzSYLs5AxyzQ
+Source ID: src_FfiYITr7aFgSqtGriPKzU
+Source ID: src_GW5fpVMzAgj8r9FGsFVg3
+Source ID: src_5zQmkSrMIFNWQkfqziTTt
+Source ID: src_VRjSH3GwrT9IuVvmMf9Ha
+Source ID: src_4pHNi2vmNV0aAuKG0z2U0
+Source ID: src_ncZvIcbZepxAsKNXM6h9X
+Source ID: src_Wq12LxpPYUomr4dz6Ri4V
+Source ID: src_dZKToI4OcFb6eyjmKOv1n
+Source ID: src_VtnL85WzI7lF7GNuUhVvI
+Source ID: src_jMhFl7uyib1ku7Tu5r68y
+Source ID: src_5MzPd8QP8P4SH7qRj4inU
+Source ID: src_abqKwJVqdbeX25QyAsD08
+Source ID: src_jRVqf8xLN0E6ma93sHz6B
+Source ID: src_o7YeXBmKixZcECWgUGkdo
+Source ID: src_CqUD5ChGyMtgIDePk3SB1
+Source ID: src_2QCtOs1yQRboQFkRg5msH
+Source ID: src_OBv7UtPXq9RFRy1tH51Cv
+Source ID: src_9h61NAFz3jjIKXqfFci9Q
+Source ID: src_buvjsFRvOZuYeBwfAqfAX
+Source ID: src_yf3steXFVwxyko3aBRdRv
+Source ID: src_l5XuOX2QKI1uDTAlbSth8
+Source ID: src_BZGGLeDg6M2MxwpRjhesT
+Source ID: src_zXJwCTPZPfCYGCFYVSssx
+Source ID: src_4UK83vtLPJhGrPthjPe7b
+Source ID: src_T2C9phnsAzCr8MlTn8eVj
+Source ID: src_wxFZovY9KJ1YzcyHoTr3E
+Source ID: src_NAuMx5lodkqoJ5Tio17NW
+Source ID: src_RY8jBJbFTaOUZXpxfP5lO
+Source ID: src_syrWK0hWGslderGPMiqmH
+Source ID: src_t7ct57qp7QmtfQKYigUlU
+Source ID: src_szlIYTEwO7Yrodz0MTYIa
+Source ID: src_pgDz1AbVSr4OoAx6TQa20
+Source ID: src_Fo7FB6nWegBcMHCqzucNq
+Source ID: src_1quGIayFqReeeI2PESxub
+Source ID: src_BcT7YbAa3cBm9uwCzwLiD
+Source ID: src_7kMg1TSidxkAzzt5p1Qs4
+Source ID: src_dlaKikG1B36OPUEPHGwzy
+Source ID: src_DP2zijKejJuFITFw8L80r
+Source ID: src_33mxnxAnX41oTeQf3ECvp
+Source ID: src_mxu6Nx6m2fIyksiXY7rxG
+Source ID: src_UWbxhi5cceWaXPLac9ZRD
+Source ID: src_E0PLfX9KkUSTxz8mdUOU1
+Source ID: src_v4PQuUKBAzbmgzTEmIdzg
+Source ID: src_vpbAHE2OPrJ9ht4cED8Wo
+Source ID: src_6DZNWublNLfKqCKCZG370
+Source ID: src_PSteW74tmz62CDR6y4C94
+Status: 400
+Error: {"code":"BAD_REQUEST","message":"You have reached your monthly API Plan limit of 5000 pages."}
+Status: 400
+Error: {"code":"BAD_REQUEST","message":"You have reached your monthly API Plan limit of 5000 pages."}
+Status: 400
+Error: {"code":"BAD_REQUEST","message":"You have reached your monthly API Plan limit of 5000 pages."}
+Sources created successfully
+1. Create cropped PDF list
+2. Create batch of sources
+3. Create batch of chats
+4. Exit
+Enter your choice: 3
+Enter the path of the directory containing the pdfs: ./cropped
+Result: Title: Uso de láser de diodo en la incisión quirúrgica del tejido blando como alternativa conservadora en cirugía bucal
+Author: Solany Herrera
+Tutor: Abigail González
+Date: Not provided
+Subjects: Not provided
+Result: Title: Miedo y ansiedad en la exodoncia de niños: Revisión bibliográfica
+Author: Michelle Flores
+Tutor: Adelcar Gil
+Date: oct, 2023
+Subjects: Fear, Anxiety, Exodontia, Children, Adaptation
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: Sistematización de programas de salud bucodental para las jornadas odontológicas en 
+la Universidad José Antonio Páez en el periodo 2023-2CR
+Author: Ismary Valera
+Tutor: Ismary Valera
+Date: November del 2023
+Subjects: Servicios de Salud
+Result: Title: Protocolo de atención para pacientes con discapacidad visual en la clínica del Niño 
+y adolescente de la Universidad José Antonio Páez.
+Author: Ana Ghinaglia.
+Tutor: Diana Ramos.
+Date: 14 de Octubre del año dos mil veintitres.
+Subjects: Odontología, atención odontológica, pacientes con discapacidad visual.
+Result: Title: Eficacia del tratamiento de artrocentesis en pacientes con desplazamiento discal sin reducción con limitación a la apertura bucal
+Author: Arianny Montoya and Maidelyn Cabezas
+Tutor: OD. Esp. Mgs. Carlos López
+Date: Not provided
+Subjects: Not provided
+Result: Title: Efectividad de la fibrina rica en plaquetas en procesos de cicatrización postquirúrgica en cirugía apical ante fracasos y complicaciones endodónticas
+Authors: Natalia Caracó and Ashley Machado
+Tutor: Od. Mauren García
+Date: 20 de Marzo del año dos mil veintitres
+Subjects: Odontología clínica y correctiva
+Result: Title: Diseño de un protocolo de atención odontológica integral y personalizada para pacientes con Alzheimer.
+Author: Corsina Torcate de Maya.
+Tutor: Juan Agustín Maya Viloria.
+Date: Not specified.
+Subjects: Odontología, Alzheimer, atención integral, calidad de vida.
+Result: Title: Prevalencia de la agenesia de terceros molares en pacientes que acuden a consulta odontológica en la Universidad José Antonio Páez
+Author: Carolyn M. Sánchez, Josnara N. Villamizar
+Tutor: Od. Bricelys Pulgar
+Date: November 2023
+Subjects: Universidad José Antonio Páez, Facultad de Ciencias de la Salud, Escuela de Odontología  
+Result: Title: Protocolo para el Diagnóstico, Tratamiento y Control de Dientes Permanentes con Ápice Inmaduro
+Author: Cesar Duque
+Tutor: Alessandra Salerno
+Date: October 10, 2023
+Subjects: Odontología clínica y correctiva
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: Carillas dentales con resina compuesta en pacientes con diastema del sector anterosuperior: Reporte de caso clínico
+Author: Daniel Alejandro Pacitto Marini
+Tutor: Elisabeth Villasana
+Date: 30/09/2023
+Subjects: Odontología clínica y correctiva
+Result: Title: Criterios inclusivos para una descompensación ortodóntica en el manejo quirúrgico de paciente clase III ortognática.
+Author: Not specified
+Tutor: John Jaimes
+Date: Not specified
+Subjects: Odontología, Ortodoncia, Cirugía ortognática.
+Result: Title: EVALUACIÓN DEL ESPACIO AEREO EN UN PACIENTE INFANTIL CON MALOCLUSIONES CLASE II
+Author: Darimar Bolívar Mejías and Hernán José Dávila Varón
+Tutor: Nora Alba González Barboza
+Date: 06 de Octubre del año dos mil veintitrés
+Subjects: Odontología Clínica y Correctiva
+Result: I'm sorry, I cannot find the specific information requested in the provided pages.
+Result: I'm sorry, but I cannot extract the requested information without knowing which document or page you are referring to. Please provide more context or specify the page number.
+Result: I'm sorry, I cannot complete this task as the given pages do not provide enough information to extract the title, author, tutor, date, and subjects of the work.
+Result: I'm sorry, I cannot find the relevant information in the provided pages.
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: "IMPRESIONES ANALÓGICAS Y DIGITALES EN REHABILITACIÓN PROTÉSICA FIJA: REVISIÓN DE LA LITERATURA"
+Author: Inas Abboud and Estefanny Valderrama
+Tutor: Not provided
+Date: Not provided
+Subjects: Not provided
+Result: I'm sorry, but I cannot provide the requested information as it is not specified which document or PDF the user is referring to. Please provide more context or information.
+Result: Title: Efectividad de los métodos de divulgación sobre salud oral dirigido a los padres de 
+niños que asisten a consulta odontológica.
+Author: Fabio Arenas.
+Tutor: Janeth Rodríguez.
+Date: No specific date mentioned.
+Subjects: Salud oral, divulgación, padres, niños, consulta odontológica.
+Result: I'm sorry, I cannot find the specific information you are looking for in the provided pages.
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: "Implementación de la técnica Sommerlad como método mínimamente invasivo para el tratamiento quirúrgico de la fisura labiopalatina"
+Author: Valentina De La Asunción and Victoria Acosta
+Tutor: Od. Alessandra Salerno
+Date: March 21, 2023
+Subjects: Odontología clínica y correctiva
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: I'm sorry, I cannot find the specific information you are looking for in the provided pages.
+Result: Title: Efecto de la lactancia materna en la prevención de alteraciones dentofaciales
+Author: Rami Aldaabal and Genndis Leung
+Tutor: Rodulfo Olivero
+Date: Not specified
+Subjects: Odontología clínica y correctiva, lactancia materna exclusiva, alteración dentofacial, maloclusiones y dentición primaria.
+Result: Title: Incorporación del Quitosano como Alternativa para la Regeneración de Defectos OralesAuthor: GERALDINE RODRIGUEZ
+Tutor: Arehana Herrera
+Date: 01 de junio del año dos mil veintidós (2023)
+Subjects: Odontología Clínica y Correctiva
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: Frecuencia de la osteítis alveolar en los pacientes operados de odontectomías en el 
+área de cirugía de la Universidad José Antonio Páez en el período enero-julio de 2023
+Author: Acevedo Nehider and Colmenares Grecia
+Tutor: Jesús Pérez
+Date: May 31, 2023
+Subjects: Odontología, Osteítis alveolar, Odontectomías
+Result: Title: Protocolo para la toma de biopsia en pacientes de la Clínica de Cirugía II y III
+Author: Gruber Cabello and José Bravo
+Tutor: Bricelys Pulgar
+Date: October 13th, 2023
+Subjects: Odontología Correctiva
+Result: Title: Eficacia de las soluciones irrigantes en los procedimientos de endodoncia regenerativa
+Authors: Hillary Gómez and Daniela Rodríguez
+Tutor: Ivette Alsina
+Date: Not specified
+Subjects: Endodoncia regenerativa, soluciones irrigantes, técnicas de recolección de datos, revisión sistemática.
+Result: Title: Autologous Transplant of a Mandibular Third Molar into a Post-extraction Tooth Socket
+Author: Tovío E, Urbano S, Gamarra J
+Date: 2020 October
+Subjects: Autotransplant, third molar, rehabilitation, edentulous spaces
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: Protocolo para la atención odontológica de pacientes con síndrome de Rett
+Author: Jose Angel Caceres Tangari
+Author: Laura Vanessa Engroñatt Cañizales
+Tutor: Patricia Catarí
+Date: Octubre 2023
+Subjects: Resumen, Introducción, El Problema, Marco Teórico, Marco Metodológico, Análisis de Resultados, Discusión Conclusiones, Referencias, Anexos
+Result: I'm sorry, I cannot find the specific information you are looking for in the provided pages.
+Result: I'm sorry, I cannot find the specific information you are looking for in the provided pages.
+Result: Title: Análisis de los senos maxilares en pacientes parcialmente edéntulos: una evaluación 
+volumétrica, anatómica y de neumatización utilizando tomografía de haz cónico.
+Author: Marsella Mouhamed
+Tutor: Rafael Muñoz Morales
+Date: November XX, 2023
+Subjects: Odontology, Health Services.
+Result: Title: La inteligencia artificial como herramienta para el estudio y diseño de prótesis dentales
+Author: Livia Borromé, Simón Casadiego
+Tutor: Od. Martin Correa
+Date: 01/10/2023
+Subjects: Dental prosthesis, prosthesis designs, chatbot, Bing
+Result: Title: Manejo conductual del síndrome de Burnout en estudiantes de odontología en Latinoamérica
+Author: Araque Lucy, López Vanella
+Tutor: Od. Ivette Alsina
+Date: Not provided
+Subjects: Not provided
+Result: Title: Comparación de técnicas anestésicas convencionales y técnicas anestésicas con instrumental eléctrico en el área de cirugía de la Universidad José Antonio Páez.
+Author: Alessandra Di Davide and Luis Meneses.
+Tutor: Rodrigo Pino.
+Date: August 25th, 2023.
+Subjects: Odontology, Anesthesia, Surgery.
+Result: Title: El uso de la estereofotogrametría en el diagnóstico de maloclusiones clase II con Bimler A
+Author: María Eugenia Valentina Regueiro Montenegro
+Tutor: [Name and last name not provided]
+Date: [Date not provided]
+Subjects: Odontología, Estereofotogrametría, Maloclusiones clase II, Bimler A
+Result: I'm sorry, I cannot find the specific information you are looking for in the provided pages.
+Result: Title: Diagnóstico temprano de sífilis congénita tardía en pacientes pediátricos a través de los dientes de Hutchinson
+Author: No information provided
+Tutor: No information provided
+Date: No information provided
+Subjects: No information provided
+Result: Title: Efectividad de la técnica Fibrina Activa (FRP) en implantes inmediatos postextracción
+Author: Br. María Alterio and Br. Carlos Osorio
+Tutor: Od. Rodrigo Pino
+Date: November 14th, 2023
+Subjects: Odontology, Clinical and Corrective Odontology.
+Result: I'm sorry, I cannot find the relevant information to answer your question.
+Result: Title: Tratamientos alternativos para el manejo de los mucoceles orales en pacientes pediátricos: Revisión bibliográfica
+Author: Josmery Dorante and María Valentina Díaz
+Tutor: Alessandra Salerno
+Date: Not specified
+Subjects: Odontopediatría, Mucocele oral, Tratamientos alternativos.
+Result: Title: Efectividad de la toxina botulínica tipo A en la funcionalidad, las sincinesias y la corrección de la sonrisa en la parálisis facial. Caso clínico
+Author: Cesar Mariangel Navas and Gabriela Suarez
+Tutor: Martha Hidalgo
+Date: August 23, 2023
+Subjects: Odontología clínica y correctiva
+Result: Title: Efectividad de Colgajo Adiposo Bucal para el Manejo de Comunicación Bucosinusal Inmediata: Reporte de Caso Clínico
+Author: Mario Querales
+Tutor: Jesús Pérez Candela
+Date: 26 de octubre del año dos mil 2023
+Subjects: Odontología
+Result: I'm sorry, I cannot find relevant information to answer your question.
+Result: Title: Agregación Bacteriana en Suturas Absorbibles y No Absorbibles Post-Cirugía Oral en Pacientes Adultos
+Author: Monica Gamez
+Tutor: Arehana Herrera
+Date: September - October 2023
+Subjects: Odontology, Bacterial Aggregation, Oral Surgery, Absorbable Sutures, Non-Absorbable Sutures.
+Result: Title: Frenilectomía en pacientes pediátricos comprometidos sistémicamente. Reporte de casos.
+Authors: Prosdocimi Alessandra, Reyes Nathacha
+Tutor: Pino Rodrigo
+Date: November 2023
+Subjects: Odontología clínica y correctiva
+Result: I'm sorry, I cannot find relevant information to answer your question.
+Result: Title: Restauraciones Endocrowns: Una Alternativa Biomimética para Dientes Tratados Endodónticamente
+Author: Tania Ortega and Noiraldy Velásquez
+Tutor: [Tutor's name not provided]
+Date: [Date not provided]
+Subjects: [Subjects not provided]
+Result: I'm sorry, I couldn't find the specific information you requested in the provided pages.
+Result: Title: Robot aspirador autónomo para la extracción de líquido mixto sangre saliva en cirugía bucal
+Author: Otto Franco
+Tutor: Not specified
+Date: Not specified
+Subjects: Not specified
+Result: Title: Odontología clínica y correctiva: Efecto de la lactancia materna en la prevención de alteraciones dentofaciales
+Author: Rami Aldaabal
+Tutor: Rodulfo Olivero
+Date: 2023
+Subjects: Odontología, lactancia materna, alteraciones dentofaciales
+Result: Title: Malformaciones congénitas bucales en niños y su relación con el consumo del alcohol 
+de la madre
+Author: Rebeca Ocanto
+Tutor: Od. Janeth Rodríguez
+Date: 12 de marzo del año dos mil veintitrés
+Subjects: Planteamiento del problema, Formulación del problema, Objetivos, Justificación, Antecedentes de la investigación, Bases teóricas, Bases legales, Definición de términos, Tipo, nivel y diseño de investigación, Método y/o Técnica de Búsqueda de Información, Instrumentos de recolección de datos o información, Técnicas de análisis de los resultados, Síntesis y análisis de la información, 
+Conclusiones, Recomendaciones
+Result: Title: Control del dolor en endodoncia en pacientes de la Clínica Integral del Adulto de la Universidad José Antonio Páez.
+Author: Rosana Farías.
+Tutor: No information provided.
+Date: No information provided.
+Subjects: Odontología, endodoncia, dolor, pacientes, clínica integral del adulto, Universidad José 
+Antonio Páez.
+Result: Title: Reposición coronal con injerto de tejido conectivo: caso clínico
+Author: Sabrina Valladares and Rosmary Rojas
+Tutor: Romelia Rueda
+Date: Not specified
+Subjects: Odontología, reposición coronal, injerto de tejido conectivo, caso clínico.
+Result: I'm sorry, but I cannot find the specific information you are looking for in the provided pages. If you have any other questions or need assistance with something else, feel free to ask!    
+Result: I'm sorry, but I cannot provide the requested information as it is not available in the given pages. The pages contain information about a research project on the ulcers in the tongue related to dental trauma, but there is no specific title or date mentioned. The author and tutor's full names are also not provided. Additionally, there is no information about the subjects covered in the research.
+Result: Title: Tratamientos estéticos en pacientes que ameriten eliminación de restauraciones con amalgama del sector posterior
+Author: Elianny Bastidas and Saidif Sarmiento
+Tutor: Vanessa Gómez
+Date: August 28, 2023 (Constancia de aceptación del tutor)
+Subjects: Odontología, Trabajo de grado, Universidad José Antonio Páez.
+Result: The title is "GUÍA PARA LA ATENCIÓN DE NIÑOS CON LABIO Y PALADAR HENDIDO" by Solangel Eekhout and Yeimy Rueda, under the guidance of Od. Elyuri Naranjo. The date is not provided, and the subjects are not explicitly mentioned.
+Result: Title: Persistencia e Intensidad de Sensibilidad durante y posterior al tratamiento de prótesis fija.
+Author: Br. Stefani Sofia Martins Basanta and Br. Andrea Alejandra Gámez Méndez.
+Tutor: Martin Correa.
+Date: April 2023.
+Subjects: Odontology, Sensitivity, Fixed Prosthesis.
+Result: Title: Prevalencia de caries y enfermedad periodontal en pacientes con discapacidad neurológica
+Author: Daniela Agüero and Valentina Colina
+Tutor: Verónica Ruiz
+Date: Not specified
+Subjects: Salud bucal, pacientes con discapacidad neurológica, caries, enfermedad periodontal.     
+Result: Title: Efectividad del mantenedor de espacio estético-funcional en la prevención de maloclusiones dentales en pacientes odontopediátricos
+Authors: Valeria Nicole González Egurbide and Valentina Teresa Guevara Amaya
+Tutor: Od. Nora González de Fraíno
+Date: Not provided
+ pages.
+Result: Title: Protocolo de Investigación Forense en Casos de Huellas por Mordedura Humana
+Author: Valery Colmenares and Carlota Morales
+Tutor: Dra. María Eugenia Torres
+Date: 2018
+Subjects: Odontología forense, huellas por mordedura humana, investigación forense.       
+Result: I'm sorry, I cannot find relevant information to answer your question.
+Result: I'm sorry, but I cannot find the specific information you are looking for in the provided pages. If you have a specific title, author, date, and subjects in mind, please provide that information and I can assist you further.
+Result: Title: Consideraciones periodontales para las restauraciones dentales cerámicas adhesivas: 
+aspectos clave para evitar problemas gingivales
+Author: Lobo, M.; Scopin, O.; Malta, J. y Hirata, R.
+Date: 2019
+Subjects: Investigación documental, artículo científico.
+Result: Title: Abordaje quirúrgico y ortodóntico de caninos impactados. Reporte de un caso
+Author: Gabriela Conejero Chirinos and Vicente Javier Herrera Luquez
+Tutor: Diana Yaneth Ramos
+Date: November 13, 2023
+Subjects: Odontología
+Result: Title: Genioplastia de Avance Como Tratamiento Coadyuvante Para Ortopnea
+Author: Joretsy Guerrero and Victoria Fernández
+Tutor: John Jaimes
+Date: November 13, 2023
+Subjects: Odontología, Genioplastia de Avance, Ortopnea
+Result: I'm sorry, I cannot find relevant information to answer your question.
+Result: Title: Uso de microimplantes en la verticalización de terceros molares mesioangulados
+Author: Christian Cicero and Viviana Feo
+Tutor: Od Diana Ramos
+Date: 2018-2023
+Subjects: Microimplantes, terceros molares, verticalización
+Result: Title: Uso de toxina botulínica como tratamiento para bruxismo crónico. Caso clínico       
+Author: Yainar Contreras, María Consuegra
+Tutor: Vanessa Gómez
+Date: San Diego, noviembre de 2023
+Subjects: Odontología, Bruxismo crónico, Toxina botulínica
+Traceback (most recent call last):
+  File "c:\Users\Sistemas DGNT\Desktop\batch\scrap_pdf.py", line 222, in <module>
+    menu()
+  File "c:\Users\Sistemas DGNT\Desktop\batch\scrap_pdf.py", line 214, in menu
+    create_chat(sources, pdflist)
+  File "c:\Users\Sistemas DGNT\Desktop\batch\scrap_pdf.py", line 173, in create_chat
+    data = [croppedlist[i], titles[i], authors[i], tutors[i], dates[i], subjects[i], summaries[i], 
+'Publication']
